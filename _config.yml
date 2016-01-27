@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/fengzhichu-theme" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
+baseurl: "/" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
 url: "https://fengzhichu.com/fengzhichu-theme" # the base hostname & protocol for your site
 imageurl: "https://source.unsplash.com/category/nature/2600x500" #"https://unsplash.it/2600/500?random"
 
@@ -20,7 +20,7 @@ theme:
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="https://yoursite.com">YOUR TITLE</a> 
+   <a href="https://yoursite.com">YOUR TITLE</a>
 
   # Icons
   rss: false
@@ -31,11 +31,11 @@ theme:
   facebook:
   flickr:
   github: "fengzhichu"
-  weibo: 
+  weibo:
   google_plus:
   instagram:
   linkedin:  # Full URL
-  pinterest: 
+  pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
@@ -69,10 +69,10 @@ theme:
 enforce_ssl: "fengzhichu.com"
 paginate: 5
 paginate_path: "blog/page:num"
-permalink: blog/:title/ 
+permalink: blog/:title/
 
 # Posted in ... with ...
-sechby: 
+sechby:
   category:   #in
   tag:   #with
 
